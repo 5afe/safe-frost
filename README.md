@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is no longer maintained and has been moved to https://github.com/safe-research/safe-frost.
+
 :warning: **Code in this repository is not audited and may contain serious security holes; use at your own risk.** :warning:
 
 # Safe + FROST
